@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPhone</string>
+    <string name="phone_name">Samsung Galaxy</string>
+    <string name="phone_price">$599.99</string>
+    <string name="phone_desc">Version: </string>
+    <string name="memory">256GB | 8GB</string>
+    <string name="camera">50MP, f/1.8, 23mm(wide)</string>
+    <string name="Bookmark">Bookmark</string>
+</resources>
